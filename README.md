@@ -3,5 +3,5 @@
 >[http://www.bitbug.net](http://www.bitbug.net)
 # 2.log4j配置文件
 ![http://blog.java1234.com/static/images/logo.png](http://blog.java1234.com/static/images/logo.png)
-[http://blog.java1234.com/index.html](http://blog.java1234.com/index.html)
+>[http://blog.java1234.com/index.html](http://blog.java1234.com/index.html)
 
