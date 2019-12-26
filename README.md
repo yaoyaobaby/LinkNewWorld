@@ -12,3 +12,5 @@
 [https://icomoon.io/](https://icomoon.io/)
 # 5.聚bt
 [https://jubt.net/cn/index.html](https://jubt.net/cn/index.html)
+# 6.https://www.netcraft.com/
+[https://www.netcraft.com/](https://www.netcraft.com/)
