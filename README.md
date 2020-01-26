@@ -18,3 +18,6 @@
 [https://getmdl.io/](https://getmdl.io/)
 # 8.测试blog
 [https://www.cnblogs.com/coderzh/category/100498.html](https://www.cnblogs.com/coderzh/category/100498.html)
+# 9测试接口http
+[https://autumnfish.cn/api/joke](https://autumnfish.cn/api/joke)
+
